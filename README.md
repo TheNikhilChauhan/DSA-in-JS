@@ -10,5 +10,6 @@
     <li>Missing number in an array./li>
     <li>Count odd numbers in an interval range</li>
     <li>Fizz Buzz</li>
-    <li></li>
+    <li>Power-of-Two</li>
+    <li>SquareRoot</li>
 </ol>
