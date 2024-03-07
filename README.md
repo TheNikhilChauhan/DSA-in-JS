@@ -13,3 +13,11 @@
     <li>Power-of-Two</li>
     <li>SquareRoot</li>
 </ol>
+<h3>02. Arrays</h3>
+<ol>
+    <li>Array Basics</li>
+    <li>Check if an element exists in an array?</li>
+    <li>Splice VS Slice</li>
+    <li></li>
+    <li></li>
+</ol>
