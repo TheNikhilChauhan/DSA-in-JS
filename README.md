@@ -18,6 +18,7 @@
     <li>Array Basics</li>
     <li>Check if an element exists in an array?</li>
     <li>Splice VS Slice</li>
-    <li></li>
+    <li>How to check if two arrays are equal or not?</li>
+    <li>Sort an array in ascending and descending order(using sort())</li>
     <li></li>
 </ol>
