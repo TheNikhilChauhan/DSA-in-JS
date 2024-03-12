@@ -26,6 +26,7 @@
 </ol>
 <h3>03. Strings</h3>
 <ol>
-    <li></li>
+    <li>Strings Basics</li>
+    <li>String 2: Find the index of the First Occurrence in a string</li>
     <li></li>
 </ol>
