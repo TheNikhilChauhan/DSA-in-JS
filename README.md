@@ -20,5 +20,12 @@
     <li>Splice VS Slice</li>
     <li>How to check if two arrays are equal or not?</li>
     <li>Sort an array in ascending and descending order(using sort())</li>
+    <li>Reverse an array</li>
+    <li>Map, filter and reduce</li>
+    <li>Majority Element</li>
+</ol>
+<h3>03. Strings</h3>
+<ol>
+    <li></li>
     <li></li>
 </ol>
