@@ -32,5 +32,7 @@
     <li>String4: Valid Anagram</li>
     <li>String5: Longest Common Prefix</li>
     <li>String6: Merge strings alternately</li>
+    <li>String7: Length of last word</li>
+    <li>String8: Valid Palindrome</li>
     <li></li>
 </ol>
