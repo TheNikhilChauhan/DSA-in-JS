@@ -31,5 +31,6 @@
     <li>String3: Reverse String</li>
     <li>String4: Valid Anagram</li>
     <li>String5: Longest Common Prefix</li>
+    <li>String6: Merge strings alternately</li>
     <li></li>
 </ol>
