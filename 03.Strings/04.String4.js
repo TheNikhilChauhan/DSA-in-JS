@@ -13,7 +13,7 @@ Example 2:
 Input: s = "rat", t = "car"
 Output: false */
 
-const isAnagram = (s, t) => {
+/* const isAnagram = (s, t) => {
   if (s.length !== t.length) {
     return false;
   }
@@ -29,6 +29,12 @@ const isAnagram = (s, t) => {
   });
 
   return count === s.length;
+}; */
+
+// another method
+
+const isAnagram = (s, t) => {
+  return s.split("").sort().join("") === t.split("").sort().join("");
 };
 
 const s = "nikhil";

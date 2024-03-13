@@ -30,5 +30,6 @@
     <li>String 2: Find the index of the First Occurrence in a string</li>
     <li>String3: Reverse String</li>
     <li>String4: Valid Anagram</li>
+    <li>String5: Longest Common Prefix</li>
     <li></li>
 </ol>
