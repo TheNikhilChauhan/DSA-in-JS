@@ -34,5 +34,6 @@
     <li>String6: Merge strings alternately</li>
     <li>String7: Length of last word</li>
     <li>String8: Valid Palindrome</li>
+    <li>String9: String Compression</li>
     <li></li>
 </ol>
