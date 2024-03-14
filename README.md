@@ -35,5 +35,7 @@
     <li>String7: Length of last word</li>
     <li>String8: Valid Palindrome</li>
     <li>String9: String Compression</li>
+    <li>String10: Reverse Words in a String</li>
+    <li>String11: Reverse Vowels of a String</li>
     <li></li>
 </ol>
