@@ -37,5 +37,11 @@
     <li>String9: String Compression</li>
     <li>String10: Reverse Words in a String</li>
     <li>String11: Reverse Vowels of a String</li>
+    <li>String12: Rotate String</li>
+</ol>
+<h3>04. Recursion</h3>
+<ol>
+    <li>Factorial of a number</li>
+    <li></li>
     <li></li>
 </ol>
