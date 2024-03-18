@@ -42,6 +42,8 @@
 <h3>04. Recursion</h3>
 <ol>
     <li>Factorial of a number</li>
-    <li></li>
+    <li>Sum of Array</li>
+    <li>Fibonacci series</li>
+    <li>Is Palindrome</li>
     <li></li>
 </ol>
